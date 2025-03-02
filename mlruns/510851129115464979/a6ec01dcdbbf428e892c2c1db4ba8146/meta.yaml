@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/510851129115464979/a6ec01dcdbbf428e892c2c1db4ba8146/artifacts
+end_time: 1740959407057
+entry_point_name: ''
+experiment_id: '510851129115464979'
+lifecycle_stage: active
+run_id: a6ec01dcdbbf428e892c2c1db4ba8146
+run_name: smiling-stoat-436
+run_uuid: a6ec01dcdbbf428e892c2c1db4ba8146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740959401886
+status: 3
+tags: []
+user_id: jchan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/510851129115464979/39b8518d1c0841a6bab0334b3c4eb4ee/artifacts
+end_time: 1740954029608
+entry_point_name: ''
+experiment_id: '510851129115464979'
+lifecycle_stage: active
+run_id: 39b8518d1c0841a6bab0334b3c4eb4ee
+run_name: merciful-crow-837
+run_uuid: 39b8518d1c0841a6bab0334b3c4eb4ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740954024678
+status: 3
+tags: []
+user_id: jchan

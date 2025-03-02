@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ba59cadc6e3c457a92c8326c01bf342c/artifacts
+end_time: 1740949174903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba59cadc6e3c457a92c8326c01bf342c
+run_name: big-boar-345
+run_uuid: ba59cadc6e3c457a92c8326c01bf342c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740949172174
+status: 3
+tags: []
+user_id: jchan

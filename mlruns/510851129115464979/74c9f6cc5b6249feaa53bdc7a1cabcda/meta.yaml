@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/510851129115464979/74c9f6cc5b6249feaa53bdc7a1cabcda/artifacts
+end_time: 1740959416995
+entry_point_name: ''
+experiment_id: '510851129115464979'
+lifecycle_stage: active
+run_id: 74c9f6cc5b6249feaa53bdc7a1cabcda
+run_name: sincere-rook-118
+run_uuid: 74c9f6cc5b6249feaa53bdc7a1cabcda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740959368383
+status: 3
+tags: []
+user_id: jchan

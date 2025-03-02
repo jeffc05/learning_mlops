@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/510851129115464979/78d59864b7a743ce9674d1fea2abfa55/artifacts
+end_time: 1740954054204
+entry_point_name: ''
+experiment_id: '510851129115464979'
+lifecycle_stage: active
+run_id: 78d59864b7a743ce9674d1fea2abfa55
+run_name: exultant-fly-542
+run_uuid: 78d59864b7a743ce9674d1fea2abfa55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740954006265
+status: 3
+tags: []
+user_id: jchan

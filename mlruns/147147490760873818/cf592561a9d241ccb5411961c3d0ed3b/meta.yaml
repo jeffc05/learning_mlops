@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/147147490760873818/cf592561a9d241ccb5411961c3d0ed3b/artifacts
+end_time: 1740949342632
+entry_point_name: ''
+experiment_id: '147147490760873818'
+lifecycle_stage: active
+run_id: cf592561a9d241ccb5411961c3d0ed3b
+run_name: stylish-mouse-960
+run_uuid: cf592561a9d241ccb5411961c3d0ed3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740949340307
+status: 3
+tags: []
+user_id: jchan

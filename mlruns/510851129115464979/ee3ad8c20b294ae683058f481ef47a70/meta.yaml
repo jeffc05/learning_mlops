@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/510851129115464979/ee3ad8c20b294ae683058f481ef47a70/artifacts
+end_time: 1740959375353
+entry_point_name: ''
+experiment_id: '510851129115464979'
+lifecycle_stage: active
+run_id: ee3ad8c20b294ae683058f481ef47a70
+run_name: debonair-dove-257
+run_uuid: ee3ad8c20b294ae683058f481ef47a70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740959368488
+status: 3
+tags: []
+user_id: jchan

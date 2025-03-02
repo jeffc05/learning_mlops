@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/510851129115464979/44505a900f5e4d7ea5cf8984df3547b3/artifacts
+end_time: 1740959380707
+entry_point_name: ''
+experiment_id: '510851129115464979'
+lifecycle_stage: active
+run_id: 44505a900f5e4d7ea5cf8984df3547b3
+run_name: colorful-fly-312
+run_uuid: 44505a900f5e4d7ea5cf8984df3547b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740959375378
+status: 3
+tags: []
+user_id: jchan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f86acaeef9e34f068f00e9602b124b1a/artifacts
+deleted_time: 1740949141159
+end_time: 1740948859705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f86acaeef9e34f068f00e9602b124b1a
+run_name: amazing-hog-791
+run_uuid: f86acaeef9e34f068f00e9602b124b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740948859605
+status: 4
+tags: []
+user_id: jchan

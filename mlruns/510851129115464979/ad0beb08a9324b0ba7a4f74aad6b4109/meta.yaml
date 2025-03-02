@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/510851129115464979/ad0beb08a9324b0ba7a4f74aad6b4109/artifacts
+end_time: 1740959412258
+entry_point_name: ''
+experiment_id: '510851129115464979'
+lifecycle_stage: active
+run_id: ad0beb08a9324b0ba7a4f74aad6b4109
+run_name: serious-swan-0
+run_uuid: ad0beb08a9324b0ba7a4f74aad6b4109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740959407080
+status: 3
+tags: []
+user_id: jchan
